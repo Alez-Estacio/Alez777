@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Alezander
-Soy aprendiz Sena y me gusta aprender tecnologías nuevas sobre todo frontend, los lenguajes de programación que más utilizo  es JavaScript y actualmente estoy aprendiendo PHP.
-También estoy desarrollando mis habilidades de análisis de datos, ya que siempre me ha llamado la atención ese campo y quisiera explotarlo.
-Estoy en un proceso de aprendizaje todos los días conmigo mismo…
 
-Skills:   JS / HTML / CSS/MYSQL
+### Hello 👋, my name is Alezander
+I am a Sena apprentice and I like to learn new technologies especially frontend, the programming languages ​​that I use the most is JavaScript and I am currently learning PHP.
+I am also developing my data analysis skills, as this field has always attracted my attention and I would like to exploit it.
+I am in a learning process every day with myself...
+
+Skills: JS / HTML / CSS / MYSQL
