@@ -1,5 +1,5 @@
 
-### Hello, my name is Alezander  ![image](https://user-images.githubusercontent.com/91294885/158627839-f1ae97a1-4165-424f-a530-e1f7741bfd63.png)
+### Hello, my name is Alezander  ♚
 
 I am a Sena apprentice and I like to learn new technologies especially frontend, the programming languages ​​that I use the most is JavaScript and I am currently learning PHP.
 
